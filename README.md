@@ -1,3 +1,2 @@
 # GameTest
-asfaf
-1
+qwertty
